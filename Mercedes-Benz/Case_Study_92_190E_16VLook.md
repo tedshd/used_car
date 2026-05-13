@@ -6,7 +6,7 @@
 - **里程：** 70,000 miles (約 110,000 km)
 - **售價：** NT$ 288,000
 - **特色：** 正品 2.5-16V 套件、Senna 拉花、新烤漆、歐規大燈、Nardi 方向盤
-- **參考連結：** (FB Marketplace 資訊)
+- **參考連結：** [Facebook Marketplace 販售連結](https://www.facebook.com/marketplace/item/1377812864158353)
 
 ## 專業鑑定與價值分析 (Expert Evaluation)
 
