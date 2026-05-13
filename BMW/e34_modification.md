@@ -5,6 +5,8 @@
 ### 1. 經典案例：BMW「明日帝國」M-Parallel (Style 37)
 這款輪框因在電影《明日帝國》(Tomorrow Never Dies) 中搭載於 E38 750iL 而聞名，是 E34 玩家公認最經典的升級首選。
 
+**實案參考：** [Facebook Marketplace 販售連結](https://www.facebook.com/marketplace/item/953943370348438)
+
 #### 規格數據分析
 - **尺寸：** 18 吋 (前後配)
 - **孔距：** 5x120
