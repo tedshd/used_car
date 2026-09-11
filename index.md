@@ -53,6 +53,7 @@
 
 **實案鑑定分析（Case Study）**
 
+- [Case_Study_04_E46_330Ci_ACSchnitzer](BMW/Case_Study_04_E46_330Ci_ACSchnitzer.md)
 - [Case_Study_86_E30_Manual](BMW/Case_Study_86_E30_Manual.md)
 - [Case_Study_88_E30_M10](BMW/Case_Study_88_E30_M10.md)
 - [Case_Study_E30_Mtech2_HighEnd](BMW/Case_Study_E30_Mtech2_HighEnd.md)
