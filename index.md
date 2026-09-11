@@ -48,6 +48,7 @@
 
 - [Alpina_B3_3.0](BMW/Alpina_B3_3.0.md)
 - [E30_3_series](BMW/E30_3_series.md)
+- [E46_330Ci_vs_320Ci](BMW/E46_330Ci_vs_320Ci.md)
 - [e34_modification](BMW/e34_modification.md)
 
 **實案鑑定分析（Case Study）**
